@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x400664
 size = 0x89
-last_change = 2023-06-12T20:27:26.251698Z
+last_change = 2023-06-12T20:27:26.278532Z
+
+[header]
+last_change = 2023-06-12T20:27:26.278532Z
+name = "authenticate_user"
+addr = 0x400664
