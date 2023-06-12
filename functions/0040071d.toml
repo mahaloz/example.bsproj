@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x40071d
 size = 0xb8
-last_change = 2023-06-12T20:28:31.978170Z
+last_change = 2023-06-12T20:28:31.988588Z
+
+[header]
+last_change = 2023-06-12T20:28:31.988588Z
+name = "main"
+addr = 0x40071d
