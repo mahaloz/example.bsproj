@@ -1,3 +1,10 @@
+[0x400580]
+last_change = 2023-06-12T20:33:22.456321Z
+addr = 0x400580
+func_addr = 0x400580
+comment = "==== AI Summarization ====\nThe code defines a function called `start` with three parameters: a1, a2, and a3\n. It initializes two integer variables (v3, v4) and two pointers (v5, retaddr). \nThe function calls another function, `__libc_start_main`, with several arguments\n including the main function, the initialized variables and pointers, and the pa\nrameter a3. After calling `__libc_start_main`, the function halts the system exe\ncution using the `__halt()` function.\n"
+decompiled = false
+
 [0x4005d0]
 last_change = 2023-06-12T20:33:09.182064Z
 addr = 0x4005d0
