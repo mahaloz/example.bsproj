@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x400880
 size = 0x36
+
+[header]
+name = "gpt_get_callback_function"
+addr = 0x400880
