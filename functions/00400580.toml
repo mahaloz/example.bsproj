@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x400580
 size = 0x2a
+
+[header]
+name = "gpt_startFunction"
+addr = 0x400580
