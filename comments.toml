@@ -1,3 +1,10 @@
+[0x4005d0]
+last_change = 2023-06-12T20:33:09.182064Z
+addr = 0x4005d0
+func_addr = 0x4005d0
+comment = "==== AI Summarization ====\nThe function sub_4005D0 checks if a flag (byte_601050) is not set. If it is not \nset, the function iterates through an array (qword_600E38), decrementing the ele\nments by a specified amount (qword_600E40 - qword_600E38 - 1), and then calls ea\nch of these elements as a function with no parameters. After the loop is complet\ne, the flag (byte_601050) is set to 1.\nk of arbitrary code execution vulnerabilities.\n"
+decompiled = false
+
 [0x400664]
 addr = 0x400664
 func_addr = 0x400664
