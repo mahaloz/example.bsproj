@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x400664
+size = 0x89
+last_change = 2023-06-12T20:45:36.295609Z
+
+[header]
+name = "gpt_gpt_authenticate_user"
+addr = 0x400664
