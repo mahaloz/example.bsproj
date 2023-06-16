@@ -4,5 +4,5 @@ size = 0xb8
 last_change = 2023-06-12T20:46:32.871443Z
 
 [header]
-name = "gpt_main_function"
+name = "main"
 addr = 0x40071d
