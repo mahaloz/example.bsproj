@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x40071d
 size = 0xb8
-last_change = 2023-06-16T04:12:53.116029Z
+last_change = 2023-06-16T04:12:59.524496Z
 
 [header]
-last_change = 2023-06-16T04:12:53.116029Z
+last_change = 2023-06-16T04:12:59.524496Z
 name = "main"
 addr = 0x40071d
 type = "long"
@@ -23,6 +23,6 @@ size = 0x8
 
 [header.args.2]
 offset = 0x2
-name = "a3"
+name = "envp"
 type = "char **"
 size = 0x8
