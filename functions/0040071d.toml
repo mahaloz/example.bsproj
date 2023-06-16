@@ -1,4 +1,28 @@
 [metadata]
 addr = 0x40071d
 size = 0xb8
-last_change = 2023-06-16T04:12:48.366626Z
+last_change = 2023-06-16T04:12:48.381799Z
+
+[header]
+last_change = 2023-06-16T04:12:48.381799Z
+name = "main"
+addr = 0x40071d
+type = "long"
+
+[header.args.0]
+offset = 0x0
+name = "argc"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "char **"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "char **"
+size = 0x8
