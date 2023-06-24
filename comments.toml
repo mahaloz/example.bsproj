@@ -19,6 +19,12 @@ func_addr = 0x400664
 comment = "==== AI Summarization ====\nThe code defines a function called \"authenticate_user\" that takes two string inp\nuts (a1 and a2) and returns a boolean value. The function initially sets the val\nue of the 9th element of the buffer \"buf\" to 0. Then, it checks if a2 equals the\n global string 's2'. If they are equal, the function returns true (1). If not, i\nt opens file a1 and reads the first 8 bytes into the buffer \"buf\". The function \nthen checks if a2 is equal to the contents of buf and returns the result of the \ncomparison.\n"
 decompiled = false
 
+[0x4006fd]
+addr = 0x4006fd
+func_addr = 0x4006fd
+comment = "This function is probably for\nbad exits if you don't auth right.\n"
+decompiled = false
+
 [0x40071d]
 last_change = 2023-06-12T20:41:24.044512Z
 addr = 0x40071d
