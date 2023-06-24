@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x4006ed
 size = 0x10
+
+[header]
+name = "authenticated"
+addr = 0x4006ed
