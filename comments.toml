@@ -1,3 +1,9 @@
+[0x71d]
+addr = 0x71d
+func_addr = 0x40071d
+comment = "==== AI Summarization ====\nThe code defines a main function that takes three arguments and initializes two \nchar arrays of size 16. It prompts the user for a username, reads the input, and\n saves it in one array. Similarly, it prompts for a password, reads the input, a\nnd saves it in the other array. Then, it calls the authenticate_user function wi\nth the entered username and password. If the authentication fails, it calls a su\nb-function with the entered username. Finally, the main function returns the out\nput of another sub-function.\n"
+decompiled = true
+
 [0x400580]
 last_change = 2023-06-12T20:33:22.456321Z
 addr = 0x400580
