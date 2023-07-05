@@ -5,11 +5,3 @@ size = 0xb8
 [header]
 name = "gpt_main_function"
 addr = 0x71d
-
-[stack_vars.-0x28]
-last_change = 2023-06-16T04:15:36.415943Z
-offset = -40
-name = "ghidra_user_buff"
-type = "char[16]"
-size = 0x10
-addr = 0x71d
