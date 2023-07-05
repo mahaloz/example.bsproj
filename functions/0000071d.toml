@@ -1,0 +1,7 @@
+[metadata]
+addr = 0x71d
+size = 0x0
+
+[header]
+name = "gpt_main_function"
+addr = 0x71d
