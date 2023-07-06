@@ -6,3 +6,13 @@ last_change = 2023-06-12T20:34:32.119710Z
 [header]
 name = "gpt_verify_user_credentials"
 addr = 0x400664
+
+[header.args.0]
+offset = 0x0
+name = "filename"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "magic"
+size = 0x8
