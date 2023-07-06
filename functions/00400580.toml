@@ -5,3 +5,9 @@ size = 0x29
 [header]
 name = ""
 addr = 0x400580
+
+[stack_vars.-0x8]
+offset = -8
+name = "argVars"
+size = 0x8
+addr = 0x400580
