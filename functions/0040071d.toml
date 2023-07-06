@@ -1,0 +1,20 @@
+[metadata]
+addr = 0x40071d
+size = 0x89
+last_change = 2023-07-06T15:42:36.861380Z
+
+[header]
+name = "main"
+addr = 0x40071d
+
+[stack_vars.-0x18]
+offset = -24
+name = "username"
+size = 0x1
+addr = 0x40071d
+
+[stack_vars.-0x28]
+offset = -40
+name = "password"
+size = 0x1
+addr = 0x40071d
