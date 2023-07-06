@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x400664
 size = 0x89
+
+[header]
+name = "gpt_verify_user_credentials"
+addr = 0x400664
