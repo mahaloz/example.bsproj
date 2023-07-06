@@ -1,0 +1,7 @@
+[metadata]
+addr = 0x4006ed
+size = 0x10
+
+[header]
+name = "gpt_get_final_output"
+addr = 0x4006ed
