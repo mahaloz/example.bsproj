@@ -1,7 +1,19 @@
 [metadata]
 addr = 0x40071d
-size = 0xb8
+size = 0x89
 
 [header]
 name = "main"
+addr = 0x40071d
+
+[stack_vars.-0x18]
+offset = -24
+name = "username"
+size = 0x1
+addr = 0x40071d
+
+[stack_vars.-0x28]
+offset = -40
+name = "password"
+size = 0x1
 addr = 0x40071d
