@@ -1,0 +1,7 @@
+[metadata]
+addr = 0x4006fd
+size = 0x20
+
+[header]
+name = "gpt_handle_failed_authentication"
+addr = 0x4006fd
