@@ -1,10 +1,27 @@
 [metadata]
 addr = 0x400664
 size = 0x89
-last_change = 2023-06-12T20:34:32.119710Z
 
 [header]
 name = "gpt_verify_user_credentials"
+addr = 0x400664
+
+[stack_vars.-0x18]
+offset = -24
+name = "buf"
+size = 0x1
+addr = 0x400664
+
+[stack_vars.-0x10]
+offset = -16
+name = "ret"
+size = 0x1
+addr = 0x400664
+
+[stack_vars.-0xc]
+offset = -12
+name = "fd"
+size = 0x4
 addr = 0x400664
 
 [header.args.0]
