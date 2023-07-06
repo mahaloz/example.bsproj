@@ -5,3 +5,13 @@ size = 0x89
 [header]
 name = "gpt_verify_user_credentials"
 addr = 0x400664
+
+[header.args.0]
+offset = 0x0
+name = "filename"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "name"
+size = 0x8
