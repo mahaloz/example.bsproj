@@ -1,0 +1,50 @@
+[metadata]
+addr = 0x40071d
+size = 0xb8
+last_change = 2023-11-15T07:36:41.935891Z
+
+[header]
+name = "main_function"
+addr = 0x40071d
+
+[stack_vars.-0x10]
+offset = -16
+name = "unusedVar2"
+size = 0x1
+addr = 0x40071d
+
+[stack_vars.-0x18]
+offset = -24
+name = "firstString"
+size = 0x1
+addr = 0x40071d
+
+[stack_vars.-0x3c]
+offset = -60
+name = "processedInput1"
+size = 0x4
+addr = 0x40071d
+
+[stack_vars.-0x48]
+offset = -72
+name = "processedInput2"
+size = 0x8
+addr = 0x40071d
+
+[stack_vars.-0x20]
+offset = -32
+name = "unusedVar1"
+size = 0x1
+addr = 0x40071d
+
+[stack_vars.-0x2c]
+offset = -44
+name = "operationResult"
+size = 0x1
+addr = 0x40071d
+
+[stack_vars.-0x28]
+offset = -40
+name = "secondString"
+size = 0x1
+addr = 0x40071d

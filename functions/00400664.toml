@@ -1,0 +1,26 @@
+[metadata]
+addr = 0x400664
+size = 0x89
+last_change = 2023-11-15T07:36:09.264785Z
+
+[header]
+name = ""
+addr = 0x400664
+
+[stack_vars.-0x18]
+offset = -24
+name = "file_buffer"
+size = 0x1
+addr = 0x400664
+
+[stack_vars.-0x10]
+offset = -16
+name = "comparison_status"
+size = 0x1
+addr = 0x400664
+
+[stack_vars.-0xc]
+offset = -12
+name = "file_descriptor"
+size = 0x4
+addr = 0x400664
