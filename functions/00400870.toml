@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x400870
+size = 0x2
+last_change = 2022-12-20T22:19:18.620533Z
+
+[header]
+last_change = 2022-12-20T22:19:18.620533Z
+name = "fini"
+addr = 0x400870

@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x4005d0
+size = 0x64
+last_change = 2022-12-20T22:19:58.160995Z
+
+[header]
+last_change = 2022-12-20T22:19:58.160995Z
+name = "global_init_something"
+addr = 0x4005d0
