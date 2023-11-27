@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x400640
+size = 0x22
+last_change = 2022-12-20T22:21:16.392718Z
+
+[header]
+last_change = 2022-12-20T22:21:16.392718Z
+name = "useless_func"
+addr = 0x400640
