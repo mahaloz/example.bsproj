@@ -16,7 +16,7 @@ type = ""
 size = 0x4
 
 [members.0x8]
-name = "field_8"
+name = "important_field"
 offset = 0x8
 type = ""
 size = 0x4
