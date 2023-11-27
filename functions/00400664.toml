@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x400664
+size = 0x89
+last_change = 2022-12-20T22:23:28.502980Z
+
+[header]
+last_change = 2022-12-20T22:23:28.502980Z
+name = "authenicate_user"
+addr = 0x400664
+type = "_BOOL8"
+
+[header.args.0]
+offset = 0x0
+name = "controlled_file"
+type = "const char *"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "const char *"
+size = 0x8

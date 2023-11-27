@@ -1,0 +1,6 @@
+[0x400664]
+last_change = 2022-12-20T22:23:16.198978Z
+addr = 0x400664
+func_addr = 0x400664
+comment = "This function is the main function that \ndoes authentication for the user.\nYou only need to know the sneaky_password! "
+decompiled = false
