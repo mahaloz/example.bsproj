@@ -1,0 +1,52 @@
+[metadata]
+addr = 0x40071d
+size = 0xb8
+last_change = 2022-12-20T22:18:12.665539Z
+
+[header]
+last_change = 2022-12-20T22:18:12.665539Z
+name = "frq_main"
+addr = 0x40071d
+type = "int"
+
+[stack_vars.-0x28]
+last_change = 2022-12-20T22:16:16.066597Z
+offset = -40
+name = "password"
+type = "char[16]"
+size = 0x10
+addr = 0x40071d
+
+[stack_vars.-0x2c]
+last_change = 2022-12-20T22:16:21.037266Z
+offset = -44
+name = "auth_val"
+type = "_BOOL4"
+size = 0x4
+addr = 0x40071d
+
+[stack_vars.-0x18]
+last_change = 2022-12-20T22:18:08.697897Z
+offset = -24
+name = "username"
+type = "int[4]"
+size = 0x10
+addr = 0x40071d
+
+[header.args.0]
+offset = 0x0
+name = "argc"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "char **"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "char **"
+size = 0x8

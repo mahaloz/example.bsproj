@@ -1,0 +1,6 @@
+[0x4006fd]
+last_change = 2022-12-20T22:15:06.480995Z
+addr = 0x4006fd
+func_addr = 0x4006fd
+comment = "This function is probably for\nbad exits if you don't auth right."
+decompiled = false

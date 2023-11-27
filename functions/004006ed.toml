@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x4006ed
+size = 0x10
+last_change = 2022-12-20T22:15:19.273677Z
+
+[header]
+last_change = 2022-12-20T22:15:19.273677Z
+name = "authenticated"
+addr = 0x4006ed
