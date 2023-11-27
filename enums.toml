@@ -1,0 +1,6 @@
+[binsync_enum]
+name = "binsync_enum"
+
+[binsync_enum.members]
+BS_VALID = 0x0
+BS_INVALID = 0x1
