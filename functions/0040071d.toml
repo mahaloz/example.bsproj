@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x40071d
 size = 0xb8
+
+[header]
+name = "mahaloz_main"
+addr = 0x40071d
