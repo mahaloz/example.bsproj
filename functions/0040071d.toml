@@ -1,0 +1,25 @@
+[metadata]
+addr = 0x40071d
+size = 0xb8
+last_change = 2022-12-20T22:08:19.269699Z
+
+[header]
+last_change = 2022-12-20T22:07:29.553049Z
+name = "mahaloz_main"
+addr = 0x40071d
+
+[stack_vars.-0x28]
+last_change = 2022-12-20T22:01:13.526055Z
+offset = -40
+name = "special_var"
+type = "mahaloz_struct"
+size = 0x10
+addr = 0x40071d
+
+[stack_vars.-0x2c]
+last_change = 2022-12-20T22:08:19.269699Z
+offset = -44
+name = "ret_val"
+type = "int"
+size = 0x4
+addr = 0x40071d

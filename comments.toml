@@ -1,0 +1,13 @@
+[0x40071d]
+last_change = 2022-12-20T22:01:50.490056Z
+addr = 0x40071d
+func_addr = 0x40071d
+comment = "***\nThis is a large function comment.\nThanks for using BinSync!\n\n<3 mahaloz\n***\n"
+decompiled = false
+
+[0x400739]
+last_change = 2022-12-20T22:01:24.774504Z
+addr = 0x400739
+func_addr = 0x40071d
+comment = "probs some username thing!\n"
+decompiled = true
