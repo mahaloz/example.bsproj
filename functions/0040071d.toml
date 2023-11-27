@@ -5,3 +5,10 @@ size = 0xb8
 [header]
 name = "mahaloz_main"
 addr = 0x40071d
+
+[stack_vars.-0x2c]
+offset = -44
+name = "ret_val"
+type = "int"
+size = 0x4
+addr = 0x40071d
