@@ -1,0 +1,5 @@
+[0x40071d]
+addr = 0x40071d
+func_addr = 0x40071d
+comment = "***\nThis is a large function comment.\nThanks for using BinSync!\n\n<3 mahaloz\n***\n"
+decompiled = false
