@@ -1,4 +1,11 @@
 [metadata]
 addr = 0x71d
 size = 0xb8
-last_change = 2024-01-15T20:11:29.786642Z
+last_change = 2024-01-15T20:11:30.014733Z
+
+[stack_vars.-0x18]
+last_change = 2024-01-15T20:11:30.014733Z
+offset = -24
+name = "my_var"
+size = 0x1
+addr = 0x71d
