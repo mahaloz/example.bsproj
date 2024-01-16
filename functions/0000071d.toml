@@ -1,4 +1,13 @@
 [metadata]
 addr = 0x71d
 size = 0xb8
-last_change = 2024-01-16T02:46:09.995143Z
+last_change = 2024-01-16T02:46:14.509473Z
+
+[header]
+last_change = 2024-01-16T02:46:14.509473Z
+addr = 0x71d
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+size = 0x8
