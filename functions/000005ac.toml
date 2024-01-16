@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x5ac
 size = 0x17
-last_change = 2024-01-16T02:47:28.733764Z
+last_change = 2024-01-16T02:47:28.783893Z
+
+[header]
+last_change = 2024-01-16T02:47:28.783893Z
+addr = 0x5ac
+type = "long long (**)(void)"
