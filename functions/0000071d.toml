@@ -1,9 +1,4 @@
 [metadata]
 addr = 0x71d
 size = 0xb8
-last_change = 2024-01-16T02:46:10.560304Z
-
-[header]
-last_change = 2024-01-16T02:46:10.560304Z
-name = "frq_main"
-addr = 0x71d
+last_change = 2024-01-16T02:46:09.996857Z
