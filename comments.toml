@@ -1,0 +1,13 @@
+[0x664]
+last_change = 2024-03-09T19:17:28.378346Z
+addr = 0x664
+func_addr = 0x664
+comment = "There is some authentication going on here\nand I dont like it!\n"
+decompiled = true
+
+[0x76f]
+last_change = 2024-03-09T19:17:05.553084Z
+addr = 0x76f
+func_addr = 0x71d
+comment = "<--- password is read here\n"
+decompiled = true

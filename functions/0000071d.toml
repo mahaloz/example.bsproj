@@ -1,0 +1,17 @@
+[metadata]
+addr = 0x71d
+size = 0xb8
+last_change = 2024-03-09T19:17:05.553084Z
+
+[header]
+last_change = 2024-03-09T19:16:46.134480Z
+name = "frq_main"
+addr = 0x71d
+
+[stack_vars.-0x2c]
+last_change = 2024-03-09T19:16:50.243237Z
+offset = -44
+name = "frq_var"
+type = "int"
+size = 0x4
+addr = 0x71d
