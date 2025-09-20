@@ -1,2 +1,47 @@
 addr = 0x71d
 size = 0xb8
+name = "mahaloz_main"
+type = "char"
+
+[header]
+last_change = 2024-10-05T01:50:49.344733Z
+name = "mahaloz_main"
+addr = 0x71d
+type = "char"
+
+[stack_vars.-0x28]
+offset = -40
+name = "special_var"
+type = "mahaloz_struct"
+size = 0x10
+addr = 0x71d
+
+[stack_vars.-0x18]
+offset = -24
+name = "username"
+type = "char[16]"
+size = 0x10
+addr = 0x71d
+
+[stack_vars.-0x2c]
+offset = -44
+name = "frq_var"
+type = "my_int"
+size = 0x4
+addr = 0x71d
+
+[header.args.0x0]
+offset = 0x0
+name = "my_arg1"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = "my_arg2"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = "my_arg3"
+type = "int **"
+size = 0x8
