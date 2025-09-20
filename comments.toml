@@ -1,0 +1,11 @@
+[0x71d]
+addr = 0x71d
+func_addr = 0x71d
+comment = "***\nThis is a large comment in the header of\nthe function! Thanks for using BinSync\n\n- <3 mahaloz\n***\n"
+decompiled = true
+
+[0x74f]
+addr = 0x74f
+func_addr = 0x71d
+comment = "the username is likley read here\n"
+decompiled = true
