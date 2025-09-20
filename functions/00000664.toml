@@ -1,0 +1,36 @@
+[metadata]
+addr = 0x664
+size = 0x89
+last_change = 2024-03-09T19:26:48.690883Z
+
+[header]
+last_change = 2024-03-09T19:26:48.691117Z
+name = "authenticate"
+addr = 0x664
+type = "_BOOL8"
+
+[stack_vars.-0x18]
+offset = 0x10
+name = "buf"
+type = "char[12]"
+size = 0xc
+addr = 0x664
+
+[stack_vars.-0xc]
+offset = 0x1c
+name = "fd"
+type = "int"
+size = 0x4
+addr = 0x664
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "const char *"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "const char *"
+size = 0x8
