@@ -1,10 +1,11 @@
+last_change = 2025-09-20T22:58:20.898250Z
 addr = 0x71d
 size = 0xb8
 name = "mahaloz_main"
 type = "char"
 
 [header]
-last_change = 2024-10-05T01:50:49.344733Z
+last_change = 2025-09-20T22:58:20.898250Z
 name = "mahaloz_main"
 addr = 0x71d
 type = "char"
