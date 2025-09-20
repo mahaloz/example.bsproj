@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x6ed
+size = 0x10
+last_change = 2024-03-09T19:20:06.749218Z
+
+[header]
+last_change = 2024-03-09T19:20:06.749218Z
+name = "admin_login"
+addr = 0x6ed
+type = "int"

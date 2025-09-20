@@ -1,0 +1,17 @@
+[metadata]
+addr = 0x71d
+size = 0xb8
+last_change = 2024-03-09T19:19:47.667446Z
+
+[header]
+last_change = 2024-03-09T19:19:36.173808Z
+name = "pascal_main"
+addr = 0x71d
+
+[stack_vars.-0x28]
+last_change = 2024-03-09T19:19:42.520597Z
+offset = -40
+name = "pascal_var"
+type = "char[16]"
+size = 0x10
+addr = 0x71d
