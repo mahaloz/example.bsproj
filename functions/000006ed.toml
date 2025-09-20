@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x6ed
+size = 0x10
+last_change = 2024-03-09T19:13:22.414471Z
+
+[header]
+last_change = 2024-03-09T19:13:22.414471Z
+name = "some_welcome_msg"
+addr = 0x6ed
