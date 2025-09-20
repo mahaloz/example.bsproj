@@ -1,0 +1,9 @@
+[my_int]
+last_change = 2024-09-29T22:38:45.188066Z
+name = "my_int"
+type = "int"
+
+[gcc_va_list]
+last_change = 2024-10-04T20:46:35.179411Z
+name = "gcc_va_list"
+type = "__va_list_tag[1]"

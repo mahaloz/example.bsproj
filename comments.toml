@@ -1,0 +1,19 @@
+[0x71d]
+last_change = 2024-03-09T19:06:10.527526Z
+addr = 0x71d
+func_addr = 0x71d
+comment = "***\nThis is a large comment in the header of\nthe function! Thanks for using BinSync\n\n- <3 mahaloz\n***\n"
+decompiled = true
+
+[0x74f]
+last_change = 2024-03-09T19:05:26.861216Z
+addr = 0x74f
+func_addr = 0x71d
+comment = "the username is likley read here\n"
+decompiled = true
+
+[0x76f]
+addr = 0x76f
+func_addr = 0x71d
+comment = "<--- password is read here\n"
+decompiled = true

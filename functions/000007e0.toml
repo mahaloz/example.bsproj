@@ -1,0 +1,12 @@
+last_change = 2024-10-05T01:48:41.611933Z
+addr = 0x7e0
+size = 0x89
+name = "init"
+artifact_type = "Function"
+
+[header]
+last_change = 2024-10-05T01:48:41.611933Z
+name = "init"
+addr = 0x7e0
+
+[header.args]

@@ -1,0 +1,28 @@
+last_change = 2024-10-04T20:46:35.178938Z
+name = "__va_list_tag"
+size = 0x18
+artifact_type = "Struct"
+
+[members.0x0]
+name = "gp_offset"
+offset = 0x0
+type = "unsigned int"
+size = 0x4
+
+[members.0x4]
+name = "fp_offset"
+offset = 0x4
+type = "unsigned int"
+size = 0x4
+
+[members.0x8]
+name = "overflow_arg_area"
+offset = 0x8
+type = "void *"
+size = 0x8
+
+[members.0x10]
+name = "reg_save_area"
+offset = 0x10
+type = "void *"
+size = 0x8

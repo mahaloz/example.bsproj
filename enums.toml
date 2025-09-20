@@ -1,0 +1,7 @@
+[MAHALOZ_ENUM]
+last_change = 2024-03-09T19:07:32.071794Z
+name = "MAHALOZ_ENUM"
+
+[MAHALOZ_ENUM.members]
+M_GO = 0x0
+M_STOP = 0x1

@@ -1,0 +1,12 @@
+last_change = 2024-03-09T19:10:06.266066Z
+addr = 0x6fd
+size = 0x20
+name = "mahaloz_rejected"
+artifact_type = "Function"
+
+[header]
+last_change = 2024-03-09T19:10:06.266066Z
+name = "mahaloz_rejected"
+addr = 0x6fd
+
+[header.args]
