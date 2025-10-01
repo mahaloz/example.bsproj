@@ -9,3 +9,9 @@ addr = 0x74f
 func_addr = 0x71d
 comment = "the username is likley read here\n"
 decompiled = true
+
+[0x76f]
+addr = 0x76f
+func_addr = 0x71d
+comment = "<--- password is read here\n"
+decompiled = true
