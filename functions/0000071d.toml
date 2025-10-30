@@ -3,7 +3,6 @@ addr = 0x71d
 size = 0xb8
 name = "mahaloz_main"
 type = "char"
-artifact_type = "Function"
 
 [header]
 last_change = 2025-09-24T18:42:01.520147Z
