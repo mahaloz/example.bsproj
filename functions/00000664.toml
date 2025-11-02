@@ -1,0 +1,11 @@
+last_change = 2025-11-02T16:23:25.447225Z
+addr = 0x664
+size = 0x89
+name = "the_90_thenticate"
+artifact_type = "Function"
+
+[header]
+name = "the_90_thenticate"
+addr = 0x664
+
+[header.args]
